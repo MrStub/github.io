@@ -52,7 +52,7 @@ Comparison:
 1. `ChatGPTAPI` uses `gpt-3.5-turbo-0301` to simulate `ChatGPT` through the official `OpenAI` completion `API` (the most reliable method, but it is not free and does not use models specifically tuned for chat).
 2. `ChatGPTUnofficialProxyAPI` accesses `ChatGPT`'s backend `API` via an unofficial proxy server to bypass `Cloudflare` (uses the real `ChatGPT`, is very lightweight, but depends on third-party servers and has rate limits).
 
-[Details](https://github.com/Chanzhaoyu/chatgpt-web/issues/138)
+[Details](https://github.com/MrStub/issues/138)
 
 Switching Methods:
 1. Go to the `service/.env.example` file and copy the contents to the `service/.env` file.
@@ -310,7 +310,7 @@ Please read the [Contributing Guidelines](./CONTRIBUTING.en.md) before contribut
 
 Thanks to all the contributors!
 
-<a href="https://github.com/Chanzhaoyu/chatgpt-web/graphs/contributors">
+<a href="https://github.com/MrStub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Chanzhaoyu/chatgpt-web" />
 </a>
 
@@ -330,4 +330,4 @@ If you find this project helpful and circumstances permit, you can give me a lit
 </div>
 
 ## License
-MIT © [ChenZhaoYu](./license)
+MIT © [MrStub](./license)

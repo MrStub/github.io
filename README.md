@@ -316,7 +316,7 @@ A: 一种可能原因是经过 Nginx 反向代理，开启了 buffer，则 Nginx
 
 感谢所有做过贡献的人!
 
-<a href="https://github.com/Chanzhaoyu/chatgpt-web/graphs/contributors">
+<a href="https://github.com/MrStub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Chanzhaoyu/chatgpt-web" />
 </a>
 
@@ -336,4 +336,4 @@ A: 一种可能原因是经过 Nginx 反向代理，开启了 buffer，则 Nginx
 </div>
 
 ## License
-MIT © [ChenZhaoYu](./license)
+MIT © [MrStub](./license)
